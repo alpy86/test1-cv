@@ -19,3 +19,6 @@ module.exports = function getLoveTrianglesCount(preferences = []) {
  return Math.floor(count / 3); 
 }
 ```
+6.	Achievement: *developed technical task and implemented Automated system minibus (fixed-route-taxi) management :minibus:, information for ordinary user about the work of minibus in Minsk is available [here](https://gusts.minsk.by/routetaxi)*
+7.	Education: *higher, Belarusian National Technical University, engineer*
+8.	English: *studied at the university for 5 years, approximate level A2+*:smile:
