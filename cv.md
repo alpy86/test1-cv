@@ -18,6 +18,6 @@ function createFunctions(n) {
   return callbacks;
 }
 ```
-6.	Achievement: *developed technical task and implemented Automated minibus (fixed-route-taxi) system  management, information for ordinary user about the work of minibuses in Minsk is available [here](http:git//gusts.minsk.by/routetaxi)*
+6.	Achievement: *developed technical task and implemented Automated minibus (fixed-route-taxi) system  management, information for ordinary user about the work of minibuses in Minsk is available [here](http://gusts.minsk.by/routetaxi)*
 7.	Education: *higher, Belarusian National Technical University, engineer; online courses CodeAcademy, HTMLacademy, CodeWars*
 8.	English: *studied at the university for 5 years, approximate level A2+*
