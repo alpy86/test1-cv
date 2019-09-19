@@ -1,24 +1,23 @@
 # Resume
 
-1.	First Name, Last Name: _**Alexandre Pylaev**_
-2.	Contacts: *:telephone_receiver:+375 29 771 42 74, Viber, Telegram, alpy86@tut.by*
-3.	Purpose employment: *participate in the development of new programs simplifying and improving human use of opportunities the Internet*
-4.	Skills: *exist the beginning of the way to study Front-end*
-5.	Example code: 
+1.	_**Alexandre Pylaev**_
+2.	Contacts: *mobile +375 29 771 42 74, Viber, Telegram, alpy86@tut.by*
+3.	My goal: *to participate in development of new programs simplifying and improving human use of opportunities*
+4.	Skills: *novice level of JavaScript, HTML, CSS, Git*
+5.	Code example: 
 ```
-module.exports = function getLoveTrianglesCount(preferences = []) {
-	let count = 0;  
-	for (let i = 0; i < preferences.length; i++) {
-		let firstValue = preferences[i];
-		let secondValue = preferences[firstValue - 1];
-		let thirdValue = preferences[secondValue - 1];
-		if (thirdValue == i + 1) {
-			count++;
- 		}
-	}
- return Math.floor(count / 3); 
+function createFunctions(n) {
+  var callbacks = [];
+  var v = 0;
+  var item = function() {
+    return v++;
+  };
+  for (var i=0; i<n; i++) {
+    callbacks.push(item);
+  }
+  return callbacks;
 }
 ```
-6.	Achievement: *developed technical task and implemented Automated system minibus (fixed-route-taxi) management :minibus:, information for ordinary user about the work of minibus in Minsk is available [here](http://gusts.minsk.by/routetaxi)*
-7.	Education: *higher, Belarusian National Technical University, engineer*
-8.	English: *studied at the university for 5 years, approximate level A2+*:smile:
+6.	Achievement: *developed technical task and implemented Automated minibus (fixed-route-taxi) system  management, information for ordinary user about the work of minibuses in Minsk is available [here](http:git//gusts.minsk.by/routetaxi)*
+7.	Education: *higher, Belarusian National Technical University, engineer; online courses CodeAcademy, HTMLacademy, CodeWars*
+8.	English: *studied at the university for 5 years, approximate level A2+*
